@@ -1,7 +1,7 @@
 # blog
-donie blog 此项目为buid后的html页面
+donie blog 此项目为build后的静态html页面 源码在 vuepress-blog 
 
-# 源码在 vuepress-blog 
+# vuepress-blog 
 
 
 ## 预览
